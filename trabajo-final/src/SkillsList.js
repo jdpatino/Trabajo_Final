@@ -5,7 +5,7 @@ const SkillsList = () => {
   const [skills] = useState([
     { name: "Spanish", level: 5 },
     { name: "English", level: 1 },
-    { name: "Swedish", level: 3 },
+    { name: "Python", level: 3 },
     { name: "HTML5", level: 2 },
     { name: "CSS", level: 4 },
     { name: "JS", level: 3 }
