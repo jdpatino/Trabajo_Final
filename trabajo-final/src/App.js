@@ -56,29 +56,29 @@ export default function App() {
               {" "}
               <i className="fa fa-desktop" /> Other Interests{" "}
             </h1>
-            <h3> Ayurveda</h3>
+            <h3> Pasatiempos</h3>
             <ul>
               <li>
-                <i className="fa fa-book" /> Meditation
+                <i className="fa fa-book" /> Videojuegos
               </li>
               <li>
-                <i className="fa fa-book" /> Yoga
+                <i className="fa fa-book" /> Deporte
               </li>
             </ul>
-            <h3>Sustainability</h3>
+            <h3>Aspiraciones</h3>
             <ul>
-              <li>Reducing waste</li>
-              <li>Build a sustainable wardrobe</li>
+              <li>Culminacion de pregrado</li>
+              <li>Emprender con una fuente de ingresos alterna</li>
             </ul>
           </section>
         </section>
       </main>
       <footer className="footer">
-        <p>Paula Latorre</p>
-        <i className="fa fa-facebook-square" />
+        <p>Juan Diego Patiño</p>
+        <i className="fa fa-facebook-square" /> 
         <i className="fa fa-instagram" />
         <i className="fa fa-github" />
-        <i className="fa fa-linkedin-in" />- Foocoding assigment: Resume
+        <i className="fa fa-linkedin-in" />
       </footer>
     </div>
   );
